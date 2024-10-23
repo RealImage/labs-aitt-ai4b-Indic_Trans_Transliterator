@@ -1,6 +1,6 @@
 # Indic-trans: Cross-Language Transliteration Tool
 
-Indic-trans provides a state-of-the-art transliteration module for cross-transliterations among Indian languages, including English and Urdu.
+Indic-trans provides a state-of-the-art transliteration module for cross-transliterations (representing multilingual languages in English) among Indian languages, including English and Urdu.
 
 ## Supported Languages
 
